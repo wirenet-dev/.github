@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://wirenet.dev">Website</a>
   &middot;
-  <a href="https://docs.wirenet.dev">Docs</a>
+  <a href="https://blog.wirenet.dev">Blog</a>
   &middot;
   <a href="mailto:florian@wirenet.dev">Contact</a>
 </p>
@@ -66,6 +66,6 @@ becomes general, safe, and useful to share.
 ## Start Here
 
 - Website: [wirenet.dev](https://wirenet.dev)
-- Docs: [docs.wirenet.dev](https://docs.wirenet.dev)
+- Blog: [blog.wirenet.dev](https://blog.wirenet.dev)
 - GitHub organization: [github.com/wirenet-dev](https://github.com/wirenet-dev)
 - Contact: [florian@wirenet.dev](mailto:florian@wirenet.dev)
