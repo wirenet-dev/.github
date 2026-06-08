@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="./assets/wirenet-icon.svg" width="72" height="72" alt="WireNet globe mark">
+  <br>
   <strong>WireNet</strong><br>
   Intelligent systems. Made to measure.
 </p>
