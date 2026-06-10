@@ -38,16 +38,6 @@ specific, governed, reviewable, and useful inside a team's actual work.
 - **Enablement systems** that help teams adopt AI without overbuilding,
   under-structuring, or confusing a demo with a dependable process.
 
-## Public Work
-
-| Repository | Description |
-| --- | --- |
-| [`marketplace`](https://github.com/wirenet-dev/marketplace) | WireNet's public Codex plugin marketplace. |
-| [`artbeats`](https://github.com/wirenet-dev/artbeats) | A professional Codex plugin marketplace for Artbeats post-production workflows. |
-
-More of the operating system is being extracted from private client work as it
-becomes general, safe, and useful to share.
-
 ## Working Principles
 
 - **Artifacts over chats.** The durable value is the brief, deck, report,
